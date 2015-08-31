@@ -8,8 +8,14 @@ and open the template in the editor.
     Author     : kowal_000
 */
 
-h
+h3 {
+    text-decoration: underline;
+}
 
-p {
-    color: red
+li.degree{
+    font-weight: bold;
+}
+
+.hangingindent {
+  padding-left: 22px ;
 }

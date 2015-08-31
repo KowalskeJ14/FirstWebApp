@@ -16,19 +16,30 @@
         <h1>Jared Kowalske</h1>
         
         <h3>Education</h3>
-        <p>Waukesha Technical College, Pewaukee, WI<br>
-            Web and Software Development Associate Degree (May 2016)<br>
-            University of Wisconsin -Stout, Menomonie, WI<br>
-            Bachelor of Science Degree in Golf Enterprise <br>
-            Business Administration Minor
+        <p class="hangingindent">
+        <ul>
+            <li>Waukesha Technical College, Pewaukee, WI
+                <ul>
+                    <li class="degree">Web and Software Development Associate Degree (May 2016)</li>
+                </ul>
+            </li>
+            <li>University of Wisconsin -Stout, Menomonie, WI
+                <ul>
+                    <li class="degree">Bachelor of Science Degree in Golf Enterprise</li>
+                    <li class="degree">Business Administration Minor</li>
+                </ul>
+            </li>
+        </ul>
+            
         </p>
         
         <h3>Recent Job Experience</h3>
-        <p>
-            Mobile Sale Associate, Best Buy – Menomonee Fall, WI (June 2013 – Present)<br>
-            Manager in Training, Finishline Retail Store - Wauwatosa, WI (January 2013 – June 2013)<br>
-            Intern – Golf Shop Staff, The Rookery Golf Club – Milton, DE (May 2012 – August 2012)<br>
-
+        <p class="hangingindent">
+        <ul>
+            <li>Mobile Sale Associate, Best Buy – Menomonee Fall, WI (June 2013 – Present)</li>
+            <li>Manager in Training, Finishline Retail Store - Wauwatosa, WI (January 2013 – June 2013)</li>
+            <li>Intern – Golf Shop Staff, The Rookery Golf Club – Milton, DE (May 2012 – August 2012)</li>
+        </ul>
         </p>
     </body>
 </html>
